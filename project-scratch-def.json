@@ -1,0 +1,15 @@
+{
+    "orgName": "Tralhead-Nerio-LabsXD Org",
+    "edition": "Partner Developer",
+    "features": ["Ligthing Web Component"],
+    "settings" : {
+        "orgPreferenceSettings": {
+            "s1EncryptedStoragePref2": false
+        },
+        "securitySettings": {
+            "sessionSettings": {
+                "sessionTimeout": "TwelveHours"
+            }
+        }
+    }
+}
