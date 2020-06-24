@@ -1,8 +1,8 @@
 {
-  "name": "salesforce-app",
+  "name": "HelloWorldLightningWebComponent",
   "private": true,
   "version": "1.0.0",
-  "description": "Salesforce App",
+  "description": "HelloWorldLightningWebComponent",
   "scripts": {
     "lint": "npm run lint:lwc",
     "lint:lwc": "eslint force-app/main/default/lwc",
